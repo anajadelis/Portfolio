@@ -1,0 +1,55 @@
+
+   
+a{
+    color: rgb(131, 131, 131);
+    font-size: small;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+p{
+    color: rgb(131, 131, 131);
+    font-size: smaller;
+}
+
+
+
+#projetos{
+    font-family: sans-serif;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5em;
+    margin-bottom: 3em;
+    width: 30em
+}
+
+
+
+a:hover{
+    color: palevioletred;
+    background-color: rgb(216, 216, 216);
+}
+
+
+   
+header{
+    font-size: small;
+    text-align: center;
+    background-color: pink;
+    color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    border-right: 10px;
+    };
+
+ 
+
+
+
