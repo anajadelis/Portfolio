@@ -1,0 +1,61 @@
+#tudo{
+    font-family: sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4em;
+    margin-bottom: 4em;
+    width: 30em
+}
+
+
+header{
+    font-size: small;
+    text-align: center;
+    background-color: pink;
+    color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    border-right: 10px;
+    }
+
+
+p{
+
+    color: rgb(131, 131, 131);
+    font-size: small;
+}
+
+
+li{
+    color: rgb(131, 131, 131);
+    font-size: small;
+
+};
+
+#titulo{
+    font-size: xx-large;
+    margin-left: 200px;
+    margin-right: auto;
+};
+
+
+h1{
+
+    font-size: medium;
+    color: black;
+    font-weight: bold;
+}
+
+h1:hover{
+    color: pink;
+};
+
+
+#conteudo{
+    margin-top: 20px;
+}; 

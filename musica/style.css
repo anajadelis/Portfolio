@@ -1,0 +1,30 @@
+
+
+#tudo{
+    font-family: sans-serif;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    margin-bottom: 3em;
+    width: 30em
+}
+
+h1{
+    text-align: center;
+}
+
+header{
+    font-size: small;
+    text-align: center;
+    background-color: pink;
+    color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    border-right: 10px;
+    };
